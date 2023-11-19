@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.behance-bg-card {
+    background-color: #ffffff;
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.be-icon {
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 4px;
+    padding: 12px;
+
+}
+
+.header-elements {
+    font-size: 16px;
+    font-weight: 700;
+    font-family: "Roboto";
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 10px;
+    color: black;
+    text-align: center;
+}
+
+.button {
+    color: white;
+    background-color: #0F16E2;
+    width: 100px;
+    height: 45px;
+    border-width: 0px;
+    border-radius: 25px;
+    margin-top: 36px;
+    margin-left: 12px;
+    border-radius: 10px;
+    border-color: #ffffff;
+
+}
+
+.adobe-icon-header-section {
+    height: 75px;
+
+    margin-top: 18px;
+    padding: 12px;
+}
+
+.projects-card-images {
+    width: 25vw;
+    border-radius: 12px;
+    width: 100%;
+}
+
+.projects-owner-name {
+    color: black;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 3px;
+    margin-right: 12px;
+
+}
+
+.round {
+    border-radius: 105px;
+    height: 24px;
+    margin: 1px;
+}
+
+.font-style {
+    font-size: 17px;
+    width: 17px;
+    margin: 4px;
+    margin-left: 29px;
+
+}
+
+.like-font-count {
+    color: black;
+    font-size: 12px;
+    margin-left: 8px;
+}
+
+.navbar-styling {
+    border-color: black;
+    border-radius: 12px;
+    margin-right: 20px;
+}
+
+.category {
+    color: grey;
+    height: 4px;
+    width: 4px;
+    margin-left: 23px;
+
+}
+
+.navbar-button {
+    border-radius: 15px;
+    height: 4vh;
+    width: 6vw;
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 12px;
+    background-color: black;
+    margin-top: 8px;
+    padding: 3px;
+    margin-right: 10px;
+}
